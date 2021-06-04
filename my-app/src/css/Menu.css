@@ -1,0 +1,33 @@
+.container-menu {
+    width: 100%;
+    /* background-color: #022e57;
+    color:white; */
+
+    font-size: 30px;
+}
+.container{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    align-items: center;
+}
+.container-menu ul{
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.container-menu li{
+    padding: 20px 0px;
+    list-style-type: none;
+    cursor: pointer;
+}
+.ligth{
+    font-size: 40px;
+}
+.container-menu li:hover{
+    color:yellow;
+}

@@ -1,0 +1,9 @@
+.displayNone {
+    /* display: none; */
+    visibility: hidden;
+}
+
+.dispaly {
+    /* display: block; */
+    visibility: visible;
+}

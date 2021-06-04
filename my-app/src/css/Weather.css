@@ -1,0 +1,28 @@
+.flex{
+    display: flex;
+}
+.justycontent-center{
+    justify-content: center;
+}
+.container-weather{
+    background-color: #3edbf0;
+    width: 100%;
+    padding: 20px;
+}
+.container-weather p{
+    margin-top: 0;
+    color:white;
+    margin-left: 5px;
+}
+.unit{
+    color:green;
+    display: inline-block;
+    margin-left: 5px;
+}
+   
+.container-weather .flex p:nth-child(1){
+    color:#e84545;
+}
+.font-size{
+    font-size: 20px;
+}

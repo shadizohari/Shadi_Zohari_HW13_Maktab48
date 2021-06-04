@@ -1,0 +1,14 @@
+.container-footer{
+    width: 100%;
+    padding:20px;
+    /* position: absolute; */
+    /* bottom: 0; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+
+}
+.container-footer img{
+    width: 100px;
+}
