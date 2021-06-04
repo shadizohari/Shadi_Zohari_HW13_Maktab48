@@ -11,7 +11,7 @@ const Footer = ({ countries, ...props }) => {
 
     return (
         <div className="container-footer" style={{ backgroundColor: value.background, color: value.color }}>
-            <img src={images} style={{ width: "250px" }} />
+            <img src={images} />
             <h2>Lorem ipsum dolor sit amet.</h2>
         </div>
     )
